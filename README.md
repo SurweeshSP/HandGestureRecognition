@@ -45,9 +45,12 @@ Using these landmarks, higher-level applications (like sign language recognition
 
 ---
 
+## Project based on this application arriving soon !!!
+
 ## 🖼️ Demo
 
 The script performs real-time detection using your webcam:
 
 ```bash
-python hand_gesture_recognition.py
+pip install mediapipe
+python mediapipe_test.py

@@ -45,7 +45,7 @@ Using these landmarks, higher-level applications (like sign language recognition
 
 ---
 
-## Project based on this application arriving soon !!!
+Project based on this application arriving soon !!!
 
 ## 🖼️ Demo
 
